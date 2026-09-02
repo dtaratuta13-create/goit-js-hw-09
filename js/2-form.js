@@ -1,4 +1,4 @@
-{
-  email: 'test@gmail.com',
-  message: 'Hello!'
-}
+const formData = {
+  email: '',
+  message: '',
+};
