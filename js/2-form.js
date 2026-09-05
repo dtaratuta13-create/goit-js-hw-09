@@ -1,4 +1,0 @@
-const formData = {
-  email: '',
-  message: '',
-};
